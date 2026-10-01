@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Node.js application for DevOps CI/CD internship task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "github-actions",
+    "cicd",
+    "devops"
+  ],
+  "author": "Lakshay Rewani",
+  "license": "MIT"
+}
